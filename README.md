@@ -1,5 +1,9 @@
 # PiKrellCam
 
+Objectives of this fork:
+1. enable use by user other than pi
+2. enable use of apache2 instead of nginx
+
 PiKrellCam is an audio/video recording motion detect program with an OSD web
 interface that detects motion using the Raspberry Pi camera MMAL motion vectors.
 
